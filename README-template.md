@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/ashleybiermann/apiserver/pull/1)
 - [ci/cd](http://xyz.com) (GitHub Actions)
 - [back-end server url - not yet deployed](http://xyz.com)
 - [front-end application - not yet implemented](http://xyz.com)
