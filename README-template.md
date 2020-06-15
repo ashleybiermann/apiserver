@@ -1,33 +1,32 @@
-# LAB - Class xx
+# LAB06 - Class 401JS
 
-## Project: Project Name Here
+## Project: HTTP & ReST
 
-### Author: Student/Group Name
+### Author: Ashley Biermann
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
+- [submission PR]()
 - [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [back-end server url - not yet deployed](http://xyz.com)
+- [front-end application - not yet implemented](http://xyz.com)
 
 ### Setup
 
 #### `.env` requirements (where applicable)
-
-i.e.
-
+NONE YET
 - `PORT` - Port Number
 - `MONGODB_URI` - URL to the running mongo instance/db
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `npm start`
+- `npm start`
 
 #### How to use your library (where applicable)
+N/A
 
 #### Tests
-
+Not Yet Implemented
 - How do you run tests?
 - Any tests of note?
 - Describe any tests that you did not complete, skipped, etc
