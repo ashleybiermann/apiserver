@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "category1",
+      "display_name": "display name - 1",
+      "description": "a description of category name 1"
+    },
+    {
+      "id": 2,
+      "name": "category2",
+      "display_name": "display name - 2",
+      "description": "a description of category name 2"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "the category of product 1",
+      "name": "product1",
+      "display_name": "display name - 1",
+      "description": "a description of product name 1"
+    },
+    {
+      "id": 2,
+      "category": "the category of product 2",
+      "name": "product2",
+      "display_name": "display name - 2",
+      "description": "a description of product name 2"
+    }
+  ]
+}
