@@ -2,31 +2,38 @@
   "categories": [
     {
       "id": 1,
-      "name": "category1",
-      "display_name": "display name - 1",
-      "description": "a description of category name 1"
+      "name": "PATCH in a new name",
+      "display_name": "PUT display name",
+      "description": "a description of category name"
     },
     {
       "id": 2,
-      "name": "category2",
-      "display_name": "display name - 2",
-      "description": "a description of category name 2"
+      "name": "electronics",
+      "display_name": "display name",
+      "description": "a description of category name"
     }
   ],
   "products": [
     {
       "id": 1,
-      "category": "the category of product 1",
+      "category": "the NEW category of product 1",
       "name": "product1",
-      "display_name": "display name - 1",
+      "display_name": "PATCHED NAME, yo",
       "description": "a description of product name 1"
     },
     {
       "id": 2,
-      "category": "the category of product 2",
+      "category": "electronics",
       "name": "product2",
       "display_name": "display name - 2",
       "description": "a description of product name 2"
+    },
+    {
+      "id": 3,
+      "category": "electronics",
+      "name": "product3",
+      "display_name": "display name - 3",
+      "description": "a description of product name 3"
     }
   ]
 }
