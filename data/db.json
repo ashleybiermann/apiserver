@@ -34,6 +34,13 @@
       "name": "product3",
       "display_name": "display name - 3",
       "description": "a description of product name 3"
+    },
+    {
+      "id": 4,
+      "category": "entertainment",
+      "name": "product4",
+      "display_name": "display name - 4",
+      "description": "a description of product name 4"
     }
   ]
 }
