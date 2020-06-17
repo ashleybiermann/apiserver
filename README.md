@@ -34,3 +34,8 @@ Not Yet Implemented
 #### UML
 
 Link to an image of the UML for your application and response to events
+
+#### Citations
+- Marlene guided me in the DELETE (and consequently the PUT) route functionality
+- Garhett and Paul helped me figure out a way to work around type cohersion, so the functionality of :id routes could get started
+- Worked with Paul to try to debug the routes that needed :id params
