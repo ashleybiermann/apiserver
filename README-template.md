@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [submission PR](https://github.com/ashleybiermann/apiserver/pull/1)
-- [ci/cd](http://xyz.com) (GitHub Actions)
+- [ci/cd](https://github.com/401-advanced-javascript-ashley-biermann/notes/tree/master/.github/workflows) (GitHub Actions)
 - [back-end server url - not yet deployed](http://xyz.com)
 - [front-end application - not yet implemented](http://xyz.com)
 
@@ -15,7 +15,7 @@
 
 #### `.env` requirements (where applicable)
 NONE YET
-- `PORT` - Port Number
+- `PORT` - 3000;
 - `MONGODB_URI` - URL to the running mongo instance/db
 
 #### How to initialize/run your application (where applicable)
