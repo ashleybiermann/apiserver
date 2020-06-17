@@ -3,11 +3,21 @@
 require('dotenv').config();
 const server = require('./lib/server.js');
 const PORT = process.env.PORT || 3000;
-server.listen(PORT, () => {
-  console.log('Server is up on PORT: ', PORT);
+const mongoose = require('mongoose');
+
+mongoose.connect(process.env.MONGO_ATLAS_URI, {
+  useCreateIndex: true,
+  useUnifiedTopology: true,
+  useNewUrlParser: true
 });
 
-// FIXME: server.start
+// debugging tool
+const db = mongoose.connection;
+db.on('open', () => {
+    console.log('connected to mongo');
+  });
+
+server.start(PORT);
 
 
 /* 

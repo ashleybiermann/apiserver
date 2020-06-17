@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/ashleybiermann/apiserver/pull/1)
+- [submission PR](https://github.com/ashleybiermann/apiserver/pull/4)
 - [ci/cd](https://github.com/401-advanced-javascript-ashley-biermann/notes/tree/master/.github/workflows) (GitHub Actions)
 - [back-end server url - not yet deployed](http://xyz.com)
 - [front-end application - not yet implemented](http://xyz.com)
@@ -33,7 +33,9 @@ Not Yet Implemented
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![overview](/images/apiserver07.jpg)
+
+![visual](/images/apiserver07-2.jpg)
 
 #### Citations
 - Marlene guided me in the DELETE (and consequently the PUT) route functionality
