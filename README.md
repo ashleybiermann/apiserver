@@ -1,6 +1,6 @@
 # LAB06 - Class 401JS
 
-## Project: HTTP & ReST
+## Project: HTTP & ReST, API Server
 
 ### Author: Ashley Biermann
 
