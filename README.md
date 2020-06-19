@@ -1,4 +1,4 @@
-## LAB06 - Class 401JS
+## LAB09- Class 401JS
 
 # HTTP & ReST, API Server
 
@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/ashleybiermann/apiserver/pull/4)
+- [submission PR](https://github.com/ashleybiermann/apiserver/pull/5)
 - [ci/cd](https://github.com/401-advanced-javascript-ashley-biermann/notes/tree/master/.github/workflows) (GitHub Actions)
 - [back-end server url - not yet deployed](http://xyz.com)
 - [front-end application - not yet implemented](http://xyz.com)
@@ -15,7 +15,7 @@
 
 #### `.env` requirements (where applicable)
 - `PORT`
-- `MONGODB_URI` - URL to the running mongo instance/db
+- `MONGO_ATLAS_URI`
 
 #### How to initialize/run your application (where applicable)
 
@@ -25,10 +25,9 @@
 N/A
 
 #### Tests
-Not Yet Implemented
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- Run with `npm test`
+- Passing tests: 404.test.js, 500.test.js, middlewares.test.js
+- Tests not yet passing: server.test.js
 
 #### UML
 

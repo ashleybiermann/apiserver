@@ -1,7 +1,5 @@
 'use strict';
 
-// jest.mock('../lib/middleware/404');
-
 const error404 = require('../lib/middleware/404');
 
 const req = { method: 'test', path: 'test' };
@@ -19,5 +17,3 @@ describe('Testing Middleware', () => {
     expect(next).not.toHaveBeenCalledWith();
   });
 });
-
-//404 get and post
